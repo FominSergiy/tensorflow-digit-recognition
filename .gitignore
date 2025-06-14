@@ -1,1 +1,5 @@
 venv/**
+mnist_dataset/t10k-*
+mnist_dataset/train-*
+mnist_dataset/t10k-*/*
+mnist_dataset/train-*/*
